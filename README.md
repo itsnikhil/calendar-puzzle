@@ -14,6 +14,11 @@ An incredibly fun and addictive puzzle with a new challenge every day! All you n
 
 [Sample solution](/solution/feb2.js)
 ```
+npm install
+node ./soluiton/feb2.js
+```
+
+```
 | Red | Feb | Red | Yel | Yel | Yel |
 | Red | Red | Red | Yel | Yel | Yel |
 | Cya | 2   | Gre | Gre | Gre | Gre | Blu |
