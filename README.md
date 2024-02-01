@@ -15,7 +15,7 @@ An incredibly fun and addictive puzzle with a new challenge every day! All you n
 [Sample solution](/solution/feb2.js)
 ```
 npm install
-node ./soluiton/feb2.js
+node ./solution/feb2.js
 ```
 
 ```
